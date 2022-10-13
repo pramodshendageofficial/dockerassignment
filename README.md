@@ -84,18 +84,19 @@
 
 
 **Assignment 2**
-    Run Hello World Docker Image Locally
 
-    ![](images/docker_helloworld.PNG)
+   Run Hello World Docker Image Locally
+
+   ![](images/docker_helloworld.PNG)
 
 **Assignment 3**
 
-    ![](images/fastapi_helloworld.PNG)
+   ![](images/fastapi_helloworld.PNG)
 
-    Locally running fastapi helloworld
+   Locally running fastapi helloworld
 
-    ![](images/docker_app.PNG)
+   ![](images/docker_app.PNG)
 
-    Fastapi helloworld docker image on the docker hub.
+   Fastapi helloworld docker image on the docker hub.
 
-    ![](images/dockerhub_image.PNG)
+   ![](images/dockerhub_image.PNG)
