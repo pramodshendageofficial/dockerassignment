@@ -104,6 +104,6 @@
 **Assignment 4**
     Build Docker Image and Push Docker Image to Docker hub.
     
-    ![](images/docker_autoaction.PNG.PNG)
+    ![](images/docker_autoaction.PNG)
     
     ![](images/dockerhub_auto.PNG)
